@@ -1,0 +1,15 @@
+p {
+    background-color: aqua;
+    width: 200px;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;   
+}
+
+p:hover {
+    background-color: azure;
+    color: aqua;
+}
